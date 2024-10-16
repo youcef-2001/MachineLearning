@@ -26,3 +26,5 @@ programmation dynamique :
 
 partitionner tout en sous problemme petit blems , et le fais de ressoudre
 ces petit bout qui constitueront a la resolution de tout le problemme 
+
+modification
